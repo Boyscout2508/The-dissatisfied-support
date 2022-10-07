@@ -1,0 +1,21 @@
+{
+  "name": "bot-teste",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "The dissatisfied support"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.5.0"
+  },
+  "scripts":{
+    "start": "node index.js"
+  }
+}
